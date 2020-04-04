@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-source /home/gabs/personal/bandequinho-bot/venv/bin/activate \
-&& python3 /home/gabs/personal/bandequinho-bot/execute_bot.py
+source venv/bin/activate && python3 execute_bot.py
